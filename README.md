@@ -6,10 +6,10 @@
 ### <div align="center">I'm Firdaus , a full-time developer 👨‍💻 working since 2017 . Im on my journey to restart my career ! 🚶</div>  
   
 
-- 🔭 I’m currently rebuild a job platform & maintaining some project .   
+- 🔭 I’m currently rebuild a job platform & maintaining some project . Mostly working on backend part , front end for self-satisfication to see something beautiful 😍😍😍
   
 
-- 🌱 I’m currently exploring serverless 💫 . Passion in cloud , been playing with gcp , ibm , aws & alibaba 🚀. Currently learning GRPC 🧠  
+- 🌱 I’m currently exploring serverless 💫 . Passion in cloud , been playing with gcp , ibm , aws & alibaba 🚀. Currently learning GRPC 🧠  . 
   
 
 - 💻 Im playing around with PHP and Node JS . Responsible for maintaining and deploying application to cloud  ☁️ .   
