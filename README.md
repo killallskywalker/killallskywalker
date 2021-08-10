@@ -9,7 +9,7 @@
 - 🔭 I’m currently rebuild a job platform & maintaining some project . Mostly working on backend part , front end for self-satisfication to see something beautiful 😍😍😍
   
 
-- 🌱 I’m currently exploring serverless 💫 . Passion in cloud , been playing with gcp , ibm , aws & alibaba 🚀. Currently learning GRPC 🧠  . 
+- 🌱 I’m currently exploring serverless 💫 . Passion in cloud , been playing with gcp , ibm , aws & alibaba 🚀 .  
   
 
 - 💻 Im playing around with PHP and Node JS . Responsible for maintaining and deploying application to cloud  ☁️ .   
